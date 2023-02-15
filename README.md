@@ -56,6 +56,7 @@ In the settings, link your git and github information to the webstorm client
 **Pull**: `git pull` The opposite of push, updates local development with updates from its remote counterpart.
 
 **Remote**: A public access repository, github is the typical hosting website for these 
+
 **Repository**: files that are typically compiled into one project, easy to access and edit 
 
 ## References
