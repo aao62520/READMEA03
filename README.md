@@ -5,7 +5,6 @@ Download link [here](https://git-scm.com).
 ### Step 2-Ensure proper installation of git 
 make sure its installed in an easy to access file location 
 
-
 ### Step 3-New Directory
 Make the correct directory for git, have it organzied too
 
@@ -21,6 +20,12 @@ On the top left of the github website, click the dropdown menyu next to your pro
 ### Step 3-Creating repository part 2
 Select the correct options based off the assignment you're doing. For the assignment Im working on, the file is public and its classified under "readme"
 
+## Webstorm Tutorial 
+### Step 1- Go onto the [Webstorm download page on Jetbrains Website](https://www.jetbrains.com/webstorm/)
+Make sure to create an account prior to doing this 
+
+### Step 2- Obtain your free license if havent done so already
+Sending a certificate of enrollment to jetbrain will likely grant you a free webstorm licene. Take advantage of this. 
 
 
 
