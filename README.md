@@ -53,6 +53,7 @@ In the settings, link your git and github information to the webstorm client
 **Merge Conflict**: two commits that end up having conflicts when trying to merge with each other 
 
 **Push**: `git push` updates the remote branch with local commits 
+
 **Pull**: `git pull` The opposite of push, updates local development with updates from its remote counterpart.
 
 **Remote**: A public access repository, github is the typical hosting website for these 
