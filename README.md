@@ -66,8 +66,7 @@ In the settings, link your git and github information to the webstorm client
   
   - [Jet Brains](https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html)
   - [GitHub Docs](https://docs.github.com/en)
-  - [W3 Schools Git Tutorial](https://www.w3schools.com/git/)
-  - Past classes
+  - IS 117 Slideshows 
   
 </p>
 </details>
