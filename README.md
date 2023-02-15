@@ -7,10 +7,8 @@ make sure its installed in an easy to access file location
 
 
 ### Step 3-New Directory
-MAake the correct directory for git, have it organzied too
-```
+Make the correct directory for git, have it organzied too
 
-```
 ### Step 4- Test for functionality
 
 
