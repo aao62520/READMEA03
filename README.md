@@ -13,9 +13,8 @@ Make the correct directory for git, have it organzied too
 
 
 ## GitHub Tutorial
-### Step 1-Make Account
-Go to [GitHub](github.com) and create an account for **GitHub**.
-![Account Creation](https://www.w3schools.com/git/img_githup_sign_up.png)
+### Step 1-Making your account 
+Create a [github account](github.com)
 ### Step 2-Make Repository
 Click plus button dropdown in the upper righthand corner of the site on the navigation bar. Click the button that says `New repository`.
 ![Repo Creation](https://www.w3schools.com/git/img_github_new_repo.png)
