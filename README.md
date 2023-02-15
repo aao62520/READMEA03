@@ -3,29 +3,17 @@
 ### Step 1- Install Git onto your device 
 Download link [here](https://git-scm.com).
 ### Step 2-Ensure proper installation of git 
-Use a command shell and type in the following :
+make sure its installed in an easy to access file location 
 
-### Step 3-Introduce Yourself to GIT
-GIT needs to get to know you, as you to are goin to be very comfy for the rest of your time working in the computer industry. It is also important for version control systems as commits from GIT use this information each time. Use the following commands:
+
+### Step 3-New Directory
+MAake the correct directory for git, have it organzied too
 ```
-###substitute your own information
-git config --global user.name "cc756"
-git config --global user.email "cc745@njit.edu"
+
 ```
-> `global` will set the username and e-mail for every **repository** on your computer, remove it from the command to do it for just the current repository.
-### Step 4-New Directory
-Let's refresh our System Admin skills and make a new directory for our project.
-```
-mkdir projectName ###makes a new director called projectName
-cd projectName ###change current working directory to projectName
-```
-### Step 5-Time to Intitialize
-Let's initialize Git and create our first GIT repo. Git will keep track of changes to this folder for changes and keep track of it in a hidden folder.
-```
-git init
-Intialized empty Git repository in /Users/user/projectName/.git/
-```
-Congratulations on creating your first local repo!
+### Step 4- Test for functionality
+
+
 ## GitHub Tutorial
 ### Step 1-Make Account
 Go to [GitHub](github.com) and create an account for **GitHub**.
