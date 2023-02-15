@@ -1,2 +1,2 @@
-#GIT TUTORIAL
-##Step 1: Installing GIT
+GIT TUTORIAL
+Step 1: Installing GIT
