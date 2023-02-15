@@ -1,13 +1,10 @@
-# A03-cc756
+# A03-aao62
 ## Git Tutorial
-### Step 1-Install GIT
-Download **GIT** for free from [here](https://git-scm.com).
-### Step 2-Check GIT Installation
-Open up a command shell and use the following commands:
-```
-git --version ###enter this line
-git version X.Y.Z.osbrand.A ###this should be the return line
-```
+### Step 1- Install Git onto your device 
+Download link [here](https://git-scm.com).
+### Step 2-Ensure proper installation of git 
+Use a command shell and type in the following :
+
 ### Step 3-Introduce Yourself to GIT
 GIT needs to get to know you, as you to are goin to be very comfy for the rest of your time working in the computer industry. It is also important for version control systems as commits from GIT use this information each time. Use the following commands:
 ```
