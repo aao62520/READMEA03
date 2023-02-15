@@ -27,6 +27,12 @@ Make sure to create an account prior to doing this
 ### Step 2- Obtain your free license if havent done so already
 Sending a certificate of enrollment to jetbrain will likely grant you a free webstorm licene. Take advantage of this. 
 
+### Step 3- Download it, very ez 
+Do it on a decent internet connection 
+
+### Step 4- Connect your webstorm to git directory 
+In the settings, link your git and github information to the webstorm client 
+
 
 
 ## Glossary
